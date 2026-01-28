@@ -1,16 +1,25 @@
-## Hi there 👋
+## Profile
+トライデントコンピュータ専門学校 在学中  
+フロントエンドエンジニア志望
 
-<!--
-**takumi1106/takumi1106** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Skills
+- HTML / CSS(Scss/BEM)
+- JavaScript（基礎）
+- WordPress（管理画面）
+- microCMS
+- Formspree
 
-Here are some ideas to get you started:
+## About
+## About
+HTML / CSSを使ってレイアウトやデザインを組み立てることが好きで、
+デザインの意図をコードとして形にすることに楽しさを感じています。
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+JavaScriptについては基礎を学習中で、
+必要に応じて調べながら実装に取り入れています。
+
+また、枠にとらわれない自由な表現のWebサイト制作に興味があり、
+見た目だけでなく、誰にとっても使いやすいよう
+アクセシビリティを意識した実装を大切にしています。
+
+制作や学習の中では、生成AIを補助的に活用しながら、
+調べた内容を自分で理解し、実装に落とし込むことを意識しています。
