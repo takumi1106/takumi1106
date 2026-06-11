@@ -3,11 +3,20 @@
 フロントエンドエンジニア志望
 
 ## Skills
-- HTML / CSS(Scss/BEM)
+- HTML / CSS (Sass / BEM)
 - JavaScript（基礎）
-- WordPress（管理画面）
+- Git
 - microCMS
 - Formspree
+- WordPress（管理画面）
+
+## Tools
+- GitHub
+- Vercel
+- Figma
+- Photoshop
+- Illustrator
+- LINE Official Account
 
 ## About
 HTML / CSSを使ってレイアウトやデザインを組み立てることが好きで、デザインの意図をコードとして形にすることに楽しさを感じています。
